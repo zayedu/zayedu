@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Zayed Umer</h1>
 <h3 align="center">Software Engineering Student @ McMaster University</h3>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/zayedu/zayedu/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/zayedu/zayedu/github-breakout/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/zayedu/zayedu/github-breakout/images/breakout-light.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zayed-umer/) 
