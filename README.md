@@ -1,23 +1,57 @@
-<h1 align="center">Hi 👋, I'm Zayed Umer</h1>
-<h3 align="center">Software Engineering Student @ McMaster University</h3>
+# Zayed Umer
 
+**I build AI infrastructure and data systems that survive contact with production.**
+
+Software engineering student at McMaster University. Currently in San Francisco building AI infrastructure on Coinbase's Product Foundations team. Previously at SpaceX, Wealthsimple, and RBC.
+
+[Website](https://notzayed.me) · [LinkedIn](https://www.linkedin.com/in/zayed-umer/)
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/zayedu/poke-plaid-mcp">poke-plaid-mcp</a></h3>
+<p>A read-only MCP server that connects brokerage portfolios to AI assistants through Plaid, with encrypted token storage, endpoint auth, and end-to-end tests.</p>
+<p><code>TypeScript</code> <code>MCP</code> <code>Plaid</code> <code>Express</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/zayedu/market-event-impact">market-event-impact</a></h3>
+<p>A cross-asset event-study engine for CPI and FOMC reactions, with placebo tests, bootstrap inference, matched controls, and a FastAPI/Next.js dashboard.</p>
+<p><code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>Statistics</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/zayedu/PolyCare">PolyCare</a></h3>
+<p>A multimodal PCOS screening-support app combining an ultrasound CNN, biomarker analysis, and a symptom agent in a transparent scoring system.</p>
+<p><code>Python</code> <code>TensorFlow</code> <code>React Native</code> <code>LLMs</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/zayedu/ChainedSimple">ChainedSimple</a></h3>
+<p>An AI-assisted KYC portal for verifiable financial documents. Built at DeltaHacks XI and awarded $50,000.</p>
+<p><code>Python</code> <code>Flask</code> <code>Cohere</code> <code>Web3</code></p>
+</td>
+</tr>
+</table>
+
+## Experience, briefly
+
+| | |
+| --- | --- |
+| **Coinbase** | Building AI infrastructure for Product Foundations in Go. |
+| **SpaceX** | Shipped the platform that brought LLM agents into the company's Non-Conformance system. |
+| **Wealthsimple** | Built Airflow infrastructure to migrate 10+ TB of analytics data from Redshift to Snowflake. |
+| **RBC Capital Markets** | Built a patent-pending agentic natural-language-to-SQL system; previously shipped a C#/.NET platform with ~2,700× faster reads. |
+
+Most often: **Go, Python, TypeScript, and SQL**. Most interested in model infrastructure, agent systems, and tools for financial data.
+
+<details>
+<summary><strong>One unnecessary but fun thing: break my contribution graph</strong></summary>
+<br />
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/zayedu/zayedu/github-breakout/images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/zayedu/zayedu/github-breakout/images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/zayedu/zayedu/github-breakout/images/breakout-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zayedu/zayedu/github-breakout/images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zayedu/zayedu/github-breakout/images/breakout-light.svg" />
+  <img alt="Breakout game generated from Zayed's GitHub contributions" src="https://raw.githubusercontent.com/zayedu/zayedu/github-breakout/images/breakout-light.svg" />
 </picture>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zayed-umer/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zayedu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zayedu&theme=dark&hide_border=false)<br/>
+</details>
