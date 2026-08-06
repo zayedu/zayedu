@@ -1,4 +1,4 @@
-### hey, i'm samir.
+### hey, i'm zayed.
 
 i build infrastructure for ai systems and occasionally weird things with financial data.
 
