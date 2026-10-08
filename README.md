@@ -1,7 +1,14 @@
-### hey, i'm zayed.
+# zayed
 
-i build infrastructure for ai systems and occasionally weird things with financial data.
+ai infrastructure. financial data. occasional weird ideas.
 
-at **Coinbase** right now. previously @ **SpaceX**. software engineering at **McMaster**.
+Intern of Technical Staff at **Cohere**. Software engineering at **McMaster**.
 
-on the side: [a Plaid MCP for Poke](https://github.com/zayedu/poke-plaid-mcp) and [a macro event-study engine](https://github.com/zayedu/market-event-impact).
+<sub>previously Coinbase, SpaceX, Wealthsimple, and RBC</sub>
+
+<br>
+
+### selected work
+
+- [Invariant](https://github.com/zayedu/invariant) — researching verifiers for bugs that visible tests miss
+- [ChainedSimple](https://github.com/zayedu/ChainedSimple) — AI-assisted financial document verification; DeltaHacks XI winner
